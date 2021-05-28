@@ -1,0 +1,13 @@
+consumes:
+- text/plain
+info:
+  description: The purpose of this API is to provide a register of companies for the
+    purpose of studying GoLang
+  title: CompanyTaxes-api
+  version: 1.0.0
+paths: {}
+produces:
+- text/plain
+schemes:
+- http
+swagger: "2.0"
